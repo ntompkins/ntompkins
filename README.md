@@ -2,11 +2,9 @@
 
 I'm Nathan and I spend a lot of time working with computers.
 
-I am currently a _computer science and engineering_ senior planning to graduate in the spring of 2021.
+__I currently work in__ hardware programming and embedded systems. 
 
-__What is a CSE degree?__ It's a fusion bachelor of science in computer science and computer engineering. This means that I have a larger scope of knowledge concerning both hardware and software compared to either of those degrees on their own. Hopefully that means I can bring some understanding to problems on either side.
-
-__I'm interested in__ development across the board: whether it's as high-level and cosmetic as UI/UX or as low-level and bare-metal as designing a microcomputer, I should be able to bring some insight and experience to the table.
+__I'm interested in__ development across both hardware and software: whether it's as high-level and cosmetic as UI/UX or as low-level and bare-metal as designing a microcomputer, my goal is to bring insight and experience to the table.
 
 __Open-source software__ is of particular interest to me, and I would love to get involved with your project if it fits my skillset.
 
