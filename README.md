@@ -1,11 +1,6 @@
-### Hey there!
-
-I'm Nathan and I spend a lot of time working with computers.
-
-__I currently work in__ hardware programming and embedded systems. 
-
-__I'm interested in__ development across both hardware and software: whether it's as high-level and cosmetic as UI/UX or as low-level and bare-metal as designing a microcomputer, my goal is to bring insight and experience to the table.
-
-__Open-source software__ is of particular interest to me, and I would love to get involved with your project if it fits my skillset.
-
-__Some languages I've used to build projects__ are Python, C++, Go, Rust, Java, C#, C, assembly (68k and MIPS), VHDL, and HTML/CSS with a hint of Javascript.
+```
+Hey there, I'm Nathan.
+I spend most of my working on/with/for computers.
+Lately, I've been working on hardware programming, kernels, and embedded systems---all good stuff.
+I'm interested in developing both hardware and software, and open-source projects are my favorite.
+```
