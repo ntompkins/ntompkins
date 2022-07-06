@@ -1,6 +1,15 @@
 ```
-Hey there, I'm Nathan.
-I spend most of my time working on/with/for computers.
-Lately, I've been working on hardware programming, kernels, and embedded systems---all good things.
-I'm interested in developing both hardware and software, and open-source projects are my favorite.
+hey there, i'm nathan.
+
+most of my time is spent working on/with/for computers.
+currently, i earn money programming hardware, debugging
+kernels, and automating embedded systems.
+
+i'm constantly trying to learn more about c, bash, vim,
+git, debian, python, go, servers, linux, and computers
+in general.
+
+most of my projects are not hosted on github.
+
+you can visit my site for more: https://ntompkins.co
 ```
