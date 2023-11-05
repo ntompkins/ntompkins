@@ -1,15 +1,18 @@
 ```
-hey there, i'm nathan.
+hey there, i'm nate.
 
-most of my time is spent working on/with/for computers.
-currently, i earn money programming hardware, debugging
-kernels, and automating embedded systems.
+i spend most of my time working on, with,
+and for computers. i earn money programming
+hardware, debugging kernels, and automating
+embedded systems.
 
-i'm constantly trying to learn more about c, bash, vim,
-git, debian, python, go, servers, linux, and computers
-in general.
+day to day, i try to learn more about good
+software by digging into things like c, git,
+(neo)vim, the linux kernel, go, python, self
+hosting servers, and good design practices
+in general---wherever they might show up.
 
-most of my projects are not hosted on github.
+most of my work is not hosted on github.
 
-you can visit my site for more: https://ntompkins.co
+visit my site for more: https://ntompkins.co
 ```
