@@ -13,6 +13,4 @@ hosting servers, and good design practices
 in general---wherever they might show up.
 
 most of my work is not hosted on github.
-
-visit my site for more: https://ntompkins.co
 ```
